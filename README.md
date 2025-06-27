@@ -3,7 +3,7 @@
 A Python-based trade simulator that emulates a real-time trading environment — similar to **Zerodha Kite** — for placing and managing trades on **NSE-like** markets. It is ideal for strategy testing, mock trading, and UI/backend prototyping without using real capital or APIs.
 
 
-## 🚀 Features
+## Features
 
 * Simulated trading environment with exchange-like behavior
 * Place and manage **Market**, **Limit**, and **Stop** orders
@@ -13,7 +13,7 @@ A Python-based trade simulator that emulates a real-time trading environment —
 * Lightweight and customizable core engine
 
 
-## 📦 Folder Structure (Modular)
+## Folder Structure (Modular)
 
 ```
 tradesimulator/
@@ -29,7 +29,7 @@ tradesimulator/
 
 You can define your trade parameters (like price, order type, quantity) via script or CLI.
 
-## 📊 Use Cases
+## Use Cases
 
 * Paper trading without capital or live account
 * Backtesting simple trade logic and position management
@@ -37,7 +37,7 @@ You can define your trade parameters (like price, order type, quantity) via scri
 * Educational sandbox for understanding order behavior
 
 
-## 📌 Future Scope
+## Future Scope
 
 * Web UI for interactive trading
 * Strategy plug-in interface
