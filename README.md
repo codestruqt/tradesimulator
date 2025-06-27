@@ -1,6 +1,6 @@
 # TradeSimulator
 
-🔪 A Python-based trade simulator that emulates a real-time trading environment — similar to **Zerodha Kite** — for placing and managing trades on **NSE-like** markets. It is ideal for strategy testing, mock trading, and UI/backend prototyping without using real capital or APIs.
+A Python-based trade simulator that emulates a real-time trading environment — similar to **Zerodha Kite** — for placing and managing trades on **NSE-like** markets. It is ideal for strategy testing, mock trading, and UI/backend prototyping without using real capital or APIs.
 
 
 ## 🚀 Features
